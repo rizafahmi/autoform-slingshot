@@ -2,7 +2,7 @@ Package.describe({
   name: "riza:autoform-slingshot",
   summary: "File upload for AutoForm with Slingshot plus progressbar",
   description: "File upload for AutoForm with Slingshot adding progressbar for better UX",
-  version: "1.1.3",
+  version: "1.1.4",
   git: "http://github.com/rizafahmi/autoform-slingshot.git"
 });
 
