@@ -92,5 +92,7 @@
 </template>
 
 <template name="progressBar">
+  {{#if progressNotDone}}
   <progress style="position: absolute" max="100" value={{progress}} name="progressBarItem"></progress>
+  {{/if}}
 </template>
