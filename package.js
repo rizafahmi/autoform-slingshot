@@ -1,5 +1,5 @@
 Package.describe({
-  name: "riza:autoform-slingshot",
+  name: "rizafahmi:autoform-slingshot",
   summary: "File upload for AutoForm with Slingshot plus progressbar",
   description: "File upload for AutoForm with Slingshot adding progressbar for better UX",
   version: "1.1.3",
