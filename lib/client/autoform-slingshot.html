@@ -90,3 +90,7 @@
 <template name="fileThumbImg_ionic">
   <img src="{{swapTemp src}}" alt="" class="img-fileUpload-thumbnail img-thumbnail img-rounded" data-action="showActionSheet">
 </template>
+
+<template name="progressBar">
+  <progress style="position: absolute" max="100" value={{progress}} name="progressBarItem"></progress>
+</template>
