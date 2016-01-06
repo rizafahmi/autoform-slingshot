@@ -10,7 +10,7 @@ Usage
 =====
 
 ```
-meteor add timbrandin:autoform-slingshot
+meteor add riza:autoform-slingshot
 ```
 
 Follow Slingshot's instructions on setting up a directive, then define the following autoform rules in your schema.  If you want to resize before upload the following is an example using `timbrandin:image-resize-client`.
